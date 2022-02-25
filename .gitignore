@@ -1,0 +1,5 @@
+lima-init.sh
+Lama/
+src/*/*.i
+src/*/*.o
+src/*/*.s

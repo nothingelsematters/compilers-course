@@ -1,11 +1,7 @@
-.PHONY: all 
+.PHONY: all
 
 all:
-	make -C src 
-	make -C regression
+	make -C src
 
 clean:
 	make clean -C src
-	make clean -C regression
-
-
